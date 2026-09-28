@@ -8,9 +8,7 @@ AI Engineer building RAG chatbots, AI agents and LLM integrations that work on r
 
 ## Projects
 
-Coming soon. Each project below includes architecture, evaluation results and a live demo.
-
-- RAG chatbot with source citations (in progress)
+- [RAG chatbot with source citations](https://github.com/Khalid-Mehmood-117/rag-chatbot-with-citations): answers from PDFs, cites document and page, refuses to guess. 97% answer accuracy, 100% refusal accuracy on a 30-question eval.
 
 ## Contact
 
